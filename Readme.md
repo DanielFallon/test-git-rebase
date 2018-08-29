@@ -10,12 +10,6 @@ git commit -m "add A"
 git push --set-upstream remote master
 ```
 
-``` git-graph-A.txt
-A    master & origin/master
-```
-
-
-
 ### Adding commit B
 ``` add-b.sh
 git checkout -b feature-B
